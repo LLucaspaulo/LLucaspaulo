@@ -7,7 +7,7 @@
 
 - 📫 Email **lucadeodato@hotmail.com**
 
-- 📄 Conheça minhas experiências [www.linkedin.com/in/lucas-paulo-241709175](www.linkedin.com/in/lucas-paulo-241709175)
+- 📄 Conheça minhas experiências [www.linkedin.com/in/lucas-paulo-241709175]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
