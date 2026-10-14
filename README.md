@@ -44,6 +44,14 @@ Analista de **Qualidade de Software** desde **2020**, atuando em **produto digit
 
 ---
 
+### Portfólio QA
+
+Exemplos de **Postman** (API) e **Cypress** (E2E) em repositório público:
+
+**[github.com/LLucaspaulo/qa-portfolio](https://github.com/LLucaspaulo/qa-portfolio)**
+
+---
+
 ### Stack (dia a dia)
 
 <p align="left">
