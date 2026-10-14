@@ -17,8 +17,6 @@ Analista de **Qualidade de Software** desde **2020**, atuando em **produto digit
 
 **Hoje (Uhuu):** testes manuais de **API** e **UI**, exploratórios e regressivos, **Jira**, **shift-left**, automação front-end com **Cypress** e **JavaScript**, versionamento com **Git**.
 
-**Formação:** CST em Análise e Desenvolvimento de Sistemas — **UNINOVE** (em andamento/conclusão conforme currículo).
-
 ---
 
 ### Competências
